@@ -1,1 +1,0 @@
-I'm already familiar with a lot of the fundamental terminology concerning version control in Github specifically - but I would like to have more hands-on practice using the CLI, which is why I plan on installing and configuring it as the assignment states.
